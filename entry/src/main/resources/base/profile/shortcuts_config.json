@@ -1,0 +1,15 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "quick_checkin",
+      "label": "$string:shortcut_quick_checkin_label",
+      "icon": "$media:icon",
+      "wants": [
+        {
+          "bundleName": "com.hmosdemos.wearable",
+          "moduleName": "EntryAbility"
+        }
+      ]
+    }
+  ]
+}

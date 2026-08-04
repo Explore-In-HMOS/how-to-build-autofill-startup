@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "How to Build Autofill Startup"
+    },
+    {
+      "name": "module_desc",
+      "value": "Auto-startup status and shortcuts quick access demo"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Quick access panel entry ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Auto-Fill & Startup"
+    },
+    {
+      "name": "unknown_route",
+      "value": "Page not found"
+    },
+    {
+      "name": "menu_startup_title",
+      "value": "Auto-Startup"
+    },
+    {
+      "name": "menu_startup_subtitle",
+      "value": "Check boot status"
+    },
+    {
+      "name": "menu_shortcuts_title",
+      "value": "Shortcuts"
+    },
+    {
+      "name": "menu_shortcuts_subtitle",
+      "value": "Manage visibility"
+    },
+    {
+      "name": "startup_page_title",
+      "value": "Auto-Startup Status"
+    },
+    {
+      "name": "status_loading",
+      "value": "Checking..."
+    },
+    {
+      "name": "status_error",
+      "value": "Unable to check status"
+    },
+    {
+      "name": "status_enabled",
+      "value": "Enabled"
+    },
+    {
+      "name": "status_disabled",
+      "value": "Disabled"
+    },
+    {
+      "name": "shortcuts_page_title",
+      "value": "Shortcuts"
+    },
+    {
+      "name": "shortcuts_empty",
+      "value": "No shortcuts declared"
+    },
+    {
+      "name": "shortcut_quick_checkin_label",
+      "value": "Quick Check-in"
+    },
+    {
+      "name": "shortcut_visible",
+      "value": "Visible"
+    },
+    {
+      "name": "shortcut_hidden",
+      "value": "Hidden"
+    },
+    {
+      "name": "toggle_button_label",
+      "value": "Toggle Visibility"
+    }
+  ]
+}

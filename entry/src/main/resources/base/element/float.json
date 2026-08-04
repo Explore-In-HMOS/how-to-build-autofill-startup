@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "title_top_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "menu_title_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "menu_subtitle_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "menu_item_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "card_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "status_font_size",
+      "value": "15fp"
+    }
+  ]
+}
